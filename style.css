@@ -1,0 +1,130 @@
+img {
+    width: 200px;
+    filter: drop-shadow(10px 10px 10px grey) ;
+    border: 2px solid #0b1522;
+    border-radius: 10px 100px/120px;
+}
+
+#B1 {
+    position: relative;
+    width: 400px;
+    z-index: 20;
+}
+
+#B2 {
+    position: relative;
+    right: 30px;
+    z-index: 18;
+}
+
+#B3 {
+    position: relative;
+    right: 60px;
+    z-index: 12;
+}
+
+#B4 {
+    position: relative;
+    right: 100px;
+    z-index: 8;
+}
+
+
+#B5 {
+    position: relative;
+    right: 150px;
+    z-index: 2;
+
+}
+
+#B6 {
+    position: relative;
+    right: 180px;
+   
+}
+
+#desc {
+    color: #0b1522;
+    padding: 10px;
+    font-size: 120%;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#logo {
+    position: fixed;
+    right: 20px;
+    border-radius: 50%;
+    top: 50px;
+    width: 100px;
+   
+}
+
+.rrc { width: 200px;
+    filter: drop-shadow(10px 10px 10px grey) ;
+    border: 2px solid #0b1522;
+    border-radius: 10px 30px 50px 70px;
+}
+
+#R1 {
+    position: relative;
+    width: 300px;
+    z-index: 20;
+}
+
+#R2 {
+    position: relative;
+    right: 30px;
+    z-index: 18;
+}
+
+#R3 {
+    position: relative;
+    right: 60px;
+    z-index: 12;
+}
+
+#R4 {
+    position: relative;
+    right: 100px;
+    z-index: 8;
+}
+
+
+#R5 {
+    position: relative;
+    right: 150px;
+    z-index: 2;
+
+}
+
+#R6 {
+    position: relative;
+    right: 180px;
+   
+}
+
+#logo2 {
+    position: fixed;
+    right: 20px;
+    border-radius: 90%;
+    top: 50px;
+    width: 100px;
+   
+}
+
+#desc2 {
+    color: #0b1522;
+    padding: 10px;
+    font-size: 120%;
+    font-style: italic;
+    font-weight: 600;
+}
+.nav-bar {
+    background-color:dodgerblue;
+    color: white;
+    position: sticky;
+    top: 0px;
+    word-spacing: 50px;
+    font-size: 20px;
+}
